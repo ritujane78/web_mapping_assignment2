@@ -1,1 +1,7 @@
-# web_mapping_assignment2
+The "Cancer Deaths in the USA (2007-2013)" dashboard provides a comprehensive view of the impact of cancer across different demographics and regions of the United States during the specified period. The objective of this dashboard is to offer insights into the prevalence and distribution of cancer deaths, enhancing awareness and supporting targeted healthcare responses and research initiatives.
+
+The interactive map at the core of the dashboard visualizes cancer deaths across all states, highlighting geographical disparities and concentrations of cancer incidences. Accompanying the map is a pie chart that breaks down the data into three major types of cancers: Breast, Colorectal, and Lung. Lastly, the nested bar graph offers a detailed breakdown of cancer deaths by race and gender within the selected geographical area. This aspect of the dashboard sheds light on the demographic disparities in cancer mortality rates.
+
+There is a dropdown state selection, an interactive widget that allows users to choose a specific state of the USA. When a state is selected, it triggers an update across the associated visual components: map, pie chart, and bar graph, to reflect the data relevant to the chosen state.
+
+Overall, the dashboard aims to tell the story of how cancer affects diverse groups within the USA differently, emphasizing the need for nuanced, data-driven approaches in healthcare policy and cancer research to effectively combat this devastating disease.
